@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/larksolutions.github.io/static/css/main.225b035a.css",
+    "main.js": "/larksolutions.github.io/static/js/main.7ef2369d.js",
+    "static/js/453.419a5d54.chunk.js": "/larksolutions.github.io/static/js/453.419a5d54.chunk.js",
+    "index.html": "/larksolutions.github.io/index.html",
+    "main.225b035a.css.map": "/larksolutions.github.io/static/css/main.225b035a.css.map",
+    "main.7ef2369d.js.map": "/larksolutions.github.io/static/js/main.7ef2369d.js.map",
+    "453.419a5d54.chunk.js.map": "/larksolutions.github.io/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.225b035a.css",
+    "static/js/main.7ef2369d.js"
+  ]
+}
