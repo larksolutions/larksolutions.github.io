@@ -19,9 +19,6 @@ const NavBar = () => {
         <Link to="/projects" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
           Projects
         </Link>
-        <Link to="/archive" className="text-gray-300 hover:text-white px-3 py-2 rounded-md text-sm font-medium">
-          Archive
-        </Link>
       </Navbar.Collapse>
     </Navbar>
   );
