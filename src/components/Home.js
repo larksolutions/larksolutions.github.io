@@ -13,7 +13,7 @@ const Home = () => {
       <NavBar />
       <div className="pt-24"> {/* Add padding-top to ensure content is not hidden behind the fixed Navbar */}
         <Element name="services" className="flex flex-col items-center justify-center mt-36 sm:mt-0 lg:h-screen">
-          <h1 className="text-center text-2xl font-bold sm:text-md md:text-lg lg:text-4xl text-white">
+          <h1 className="text-center text-4xl font-bold sm:text-md md:text-lg lg:text-4xl text-white">
             Let us solve your <span className="underline">problems!</span>
           </h1>
           <a href="https://www.facebook.com/larktechsolutions">
